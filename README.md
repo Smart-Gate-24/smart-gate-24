@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We're Smart Gate Building Materials</h1>
 
-# 💫 About Me:
+<h2 align="center">💫 About Me:</h2>
 Opened in February 2024, Smart Gate Building Materials TR LLC SP is Zubarah's newest one-stop shop for building needs. Whether you're a seasoned contractor or a weekend DIY warrior, our extensive selection of tools, tiles, electrical supplies, plumbing equipment, sanitary products, construction materials, and hardware ensures you'll find everything to complete your project.<br>
 
 
