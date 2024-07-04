@@ -10,8 +10,8 @@ Opened in February 2024, Smart Gate Building Materials TR LLC SP is Zubarah's ne
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=smart-gate-24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=smart-gate-24&theme=dark&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=smart-gate-24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)\
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=smart-gate-24&theme=dark&hide_border=false)\
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smart-gate-24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
